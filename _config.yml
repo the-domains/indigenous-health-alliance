@@ -1,0 +1,28 @@
+name: Indigenous Health Alliance
+favicon: null
+layout_spectrum: 0.17104733944870532
+typography_spectrum: 0.9715236185584217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.40554101928137243
+  lightness: 0.02433285629376769
+  saturation: 0.6464366889558733
+  rhythmicContrast: 0.01951013901270926
+purpose: []
